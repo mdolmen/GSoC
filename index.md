@@ -3,6 +3,10 @@ Improve process injection feature of Drakvuf
 
 This article is part of my final evaluation for the Google Summer of Code 2018
 during which I contributed to one of The Honeynet Project tool : __Drakvuf__.
+Links to my work:
+- <https://github.com/tklengyel/drakvuf/pull/407>
+- <https://github.com/tklengyel/drakvuf/pull/423>
+- <https://github.com/tklengyel/drakvuf/pull/444>
 
 
 The tool
